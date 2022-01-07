@@ -1,0 +1,1 @@
+## I'm a software engineering student at Epicodus studing full stack web development
