@@ -1,2 +1,2 @@
-### I'm a software engineering student at Epicodus studying full-stack web development.
+### I'm a Rails software engineer!! Hello.
 #### Skills: Ruby on Rails | Python/Django | Java/Android Studio | Javascript/JQuery, HTML, CSS
